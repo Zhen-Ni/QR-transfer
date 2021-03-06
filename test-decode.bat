@@ -1,0 +1,1 @@
+qrtransfer decode -if encoded-video.mp4 -of decoded-file.py
